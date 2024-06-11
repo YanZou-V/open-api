@@ -51,7 +51,7 @@
     "syntax-error": "^1.4.0",
     "yargs": "^17.2.1",
     "youtubedl-core": "^4.11.7",
-    "yt-search": "^2.10.4,
+    "yt-search": "^2.10.4",
     "@neoxr/api": "^1.5.3",
     "axios": "^1.6.8",
     "body-parser": "^1.20.2",
